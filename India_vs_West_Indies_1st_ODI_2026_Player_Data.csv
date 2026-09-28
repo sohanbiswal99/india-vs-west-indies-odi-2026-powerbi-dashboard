@@ -1,0 +1,23 @@
+Match_Date,Team_Name,Opponent,Player_Name,Player_Role,Runs,Balls_Faced,Fours,Sixes,Strike_Rate,Wickets,Overs_Bowled,Runs_Conceded,Economy,Maidens,Catches,Dismissal,Team_Total,Team_Wickets,Match_Result
+2026-09-27,India,West Indies,Rohit Sharma,Batter,32,35,2,3,91.43,0,0,0,0.0,0,1,c Jewel Andrew b Alzarri Joseph,300,2,Won
+2026-09-27,India,West Indies,Shubman Gill,Batter,110,108,13,1,101.85,0,0,0,0.0,0,0,c Jewel Andrew b Roston Chase,300,2,Won
+2026-09-27,India,West Indies,Virat Kohli,Batter,139,88,10,9,157.95,0,0,0,0.0,0,0,Not Out,300,2,Won
+2026-09-27,India,West Indies,Ruturaj Gaikwad,Batter,13,19,0,0,68.42,0,0,0,0.0,0,0,Not Out,300,2,Won
+2026-09-27,India,West Indies,KL Rahul,Wicketkeeper-Batter,0,0,0,0,0.0,0,0,0,0.0,0,0,Did Not Bat,300,2,Won
+2026-09-27,India,West Indies,Naman Dhir,All-rounder,0,0,0,0,0.0,0,5,33,6.6,0,1,Did Not Bat,300,2,Won
+2026-09-27,India,West Indies,Ravindra Jadeja,All-rounder,0,0,0,0,0.0,0,10,54,5.4,0,1,Did Not Bat,300,2,Won
+2026-09-27,India,West Indies,Nitish Kumar Reddy,All-rounder,0,0,0,0,0.0,1,5,45,9.0,0,0,Did Not Bat,300,2,Won
+2026-09-27,India,West Indies,Kuldeep Yadav,Bowler,0,0,0,0,0.0,4,10,40,4.0,1,0,Did Not Bat,300,2,Won
+2026-09-27,India,West Indies,Gurnoor Brar,Bowler,0,0,0,0,0.0,0,10,60,6.0,0,0,Did Not Bat,300,2,Won
+2026-09-27,India,West Indies,Prasidh Krishna,Bowler,0,0,0,0,0.0,2,10,60,6.0,0,1,Did Not Bat,300,2,Won
+2026-09-27,West Indies,India,John Campbell,Batter,62,60,6,3,103.33,0,0,0,0.0,0,0,c Prasidh Krishna b Kuldeep Yadav,295,7,Lost
+2026-09-27,West Indies,India,Justin Greaves,All-rounder,101,108,12,0,93.52,0,0,0,0.0,0,0,lbw b Kuldeep Yadav,295,7,Lost
+2026-09-27,West Indies,India,Keacy Carty,Batter,13,31,0,0,41.94,0,0.4,17,25.5,0,0,c Shubman Gill b Prasidh Krishna,295,7,Lost
+2026-09-27,West Indies,India,Shai Hope,Wicketkeeper-Batter,12,11,1,0,109.09,0,0,0,0.0,0,0,c Ravindra Jadeja b Kuldeep Yadav,295,7,Lost
+2026-09-27,West Indies,India,Amir Jangoo,Batter,58,43,7,1,134.88,0,0,0,0.0,0,0,Not Out,295,7,Lost
+2026-09-27,West Indies,India,Jewel Andrew,Wicketkeeper-Batter,0,1,0,0,0.0,0,0,0,0.0,0,2,c Rohit Sharma b Kuldeep Yadav,295,7,Lost
+2026-09-27,West Indies,India,Roston Chase,All-rounder,24,32,3,0,75.0,1,10,64,6.4,0,0,b Prasidh Krishna,295,7,Lost
+2026-09-27,West Indies,India,Matthew Forde,All-rounder,7,12,0,0,58.33,0,5,39,7.8,0,0,c Naman Dhir b Nitish Kumar Reddy,295,7,Lost
+2026-09-27,West Indies,India,Gudakesh Motie,Bowler,4,4,0,0,100.0,0,10,66,6.6,0,0,Not Out,295,7,Lost
+2026-09-27,West Indies,India,Alzarri Joseph,Bowler,0,0,0,0,0.0,1,9,81,9.0,1,0,Did Not Bat,295,7,Lost
+2026-09-27,West Indies,India,Jayden Seales,Bowler,0,0,0,0,0.0,0,7,32,4.57,0,0,Did Not Bat,295,7,Lost
